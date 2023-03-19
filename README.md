@@ -1,1 +1,3 @@
-# devops-project01-sudhir
+# docker-Java-kubernetes-project
+
+Deploying Java Applications with Docker and Kubernetes
